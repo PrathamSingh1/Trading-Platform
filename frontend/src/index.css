@@ -4,3 +4,9 @@
 .nav-link {
     margin-left: 40px;
 }
+
+.container a {
+  text-decoration: none;
+  color: inherit;
+  font-size: 14px;
+}
