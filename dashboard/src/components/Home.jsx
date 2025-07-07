@@ -1,7 +1,7 @@
-import React from 'react'
-import Dashboard from './Dashboard';
-import TopBar from './TopBar';
+import React from "react";
 
+import Dashboard from "./Dashboard";
+import TopBar from "./TopBar";
 
 const Home = () => {
   return (
@@ -9,7 +9,7 @@ const Home = () => {
       <TopBar />
       <Dashboard />
     </>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
